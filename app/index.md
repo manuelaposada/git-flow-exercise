@@ -6,18 +6,35 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 
 ## Picks of the Month
 
-### [Cuba Pudding Jr.](writer/cuba-pudding-jr.md) | cubapud@flavor.magazine
+### [Cuba Pudding Jr.](writer/cuba-pudding-jr.md) | 
 
 [Grilled Peach Salad](recipe/jan/grilled-peach-salad.md)
 
-### [Eggs Benny](writer/eggs-benny.md) | englishmuffin@flavor.magazine
 
+<<<<<<< HEAD
 [Asparagus with Cranberries](../recipe/feb/asparagus-cranberries.md)
 
 ### [John Lemon](writer/john-lemon.md) | zestmaster@flavor.magazine
+=======
+### [John Lemon](writer/john-lemon.md) |
+>>>>>>> remove-eggs-benny
 
 [Homemade Sausages](recipe/jan/homemade-sausages.md)
 
-### [Madame Croque](writer/madame-croque.md) | mmecroque@flavor.magazine
+### [Madame Croque](writer/madame-croque.md) |
+
+[Chocolate Soup](recipe/jan/chocolate-soup.md)
+
+## Last months favorites
+
+### [Cuba Pudding Jr.](writer/cuba-pudding-jr.md) | 
+
+[Grilled Peach Salad](recipe/jan/grilled-peach-salad.md)
+
+### [Eggs Benny](writer/eggs-benny.md) | 
+
+[Vanilla Panna Cotta](recipe/jan/vanilla-panna-cotta.md)
+
+### [Madame Croque](writer/madame-croque.md) |
 
 [Chocolate Soup](recipe/jan/chocolate-soup.md)
